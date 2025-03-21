@@ -1,4 +1,54 @@
 body{
-    background-color: rgb(185, 213, 255);
+    background-color:#FFFFFF;
     color: rgb(255, 255, 255);
+}
+
+.my_button {
+    width: 50px;
+    height: 20px;
+    border-radius: 10xp;
+    background-color:#1D2A21;
+    color:white;
+}
+
+.my_button {
+    width: 50px;
+    height: 20px;
+    border-radius: 10xp;
+    background-color:#D9D9D9;
+    color:#1D2A21;
+}
+
+.div1 {
+    width: 50%;
+    height: 50%;
+    text-align: left;
+}
+
+#rodape {
+    background-color:#DDCCBA;
+    width: 3000px;
+    height: 800px;
+    margin: 20px -800px; 
+}
+
+.borboleta{
+    width: 15%;
+    height: 15%;
+    margin-left: 0px;
+}
+
+#titulo {
+    margin: 20px 40px; 
+}
+
+.form-inline {
+    margin-top: 0%;
+    
+}
+
+.div2 {
+    width: 50%;
+    height: 50%;
+    margin-top: 300%;
 }
